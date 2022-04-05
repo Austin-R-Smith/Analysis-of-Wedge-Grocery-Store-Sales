@@ -1,3 +1,3 @@
-# TheWedge_Austin
+# Analysis of Wedge Co-op Grocery Sales
 
-All files included and all details in the submission file!
+See files for notes. Explanation to come. 
